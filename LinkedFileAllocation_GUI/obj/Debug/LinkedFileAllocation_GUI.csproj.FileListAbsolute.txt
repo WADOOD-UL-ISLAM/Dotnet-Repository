@@ -1,0 +1,11 @@
+C:\Users\Wad00d\source\repos\LinkedFileAllocation_GUI\bin\Debug\LinkedFileAllocation_GUI.exe.config
+C:\Users\Wad00d\source\repos\LinkedFileAllocation_GUI\bin\Debug\LinkedFileAllocation_GUI.exe
+C:\Users\Wad00d\source\repos\LinkedFileAllocation_GUI\bin\Debug\LinkedFileAllocation_GUI.pdb
+C:\Users\Wad00d\source\repos\LinkedFileAllocation_GUI\obj\Debug\LinkedFileAllocation_GUI.csproj.AssemblyReference.cache
+C:\Users\Wad00d\source\repos\LinkedFileAllocation_GUI\obj\Debug\LinkedFileAllocation_GUI.csproj.SuggestedBindingRedirects.cache
+C:\Users\Wad00d\source\repos\LinkedFileAllocation_GUI\obj\Debug\LinkedFileAllocation_GUI.Properties.Resources.resources
+C:\Users\Wad00d\source\repos\LinkedFileAllocation_GUI\obj\Debug\LinkedFileAllocation_GUI.csproj.GenerateResource.cache
+C:\Users\Wad00d\source\repos\LinkedFileAllocation_GUI\obj\Debug\LinkedFileAllocation_GUI.csproj.CoreCompileInputs.cache
+C:\Users\Wad00d\source\repos\LinkedFileAllocation_GUI\obj\Debug\LinkedFileAllocation_GUI.exe
+C:\Users\Wad00d\source\repos\LinkedFileAllocation_GUI\obj\Debug\LinkedFileAllocation_GUI.pdb
+C:\Users\Wad00d\source\repos\LinkedFileAllocation_GUI\obj\Debug\LinkedFileAllocation_GUI.FILE_ALLOCATION_GUI.resources
